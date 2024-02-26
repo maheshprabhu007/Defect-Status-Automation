@@ -19,3 +19,5 @@ Moving forward, the model's integration into production environments will be acc
 Furthermore, rigorous testing of the data and model predictions will be integral to our strategy. This includes A/B testing to compare model versions and validation against domain-specific benchmarks. Incorporating automated hyperparameter tuning through MLOps tools will further enhance the model's performance, ensuring that we are using the optimal configuration at all times.
 By embracing MLOps, we pave the way for a scalable, maintainable, and highly efficient ML lifecycle. This not only guarantees a state-of-the-art solution for the current problem but also sets a precedent for future ML projects within the organization.
 In essence, our project demonstrates the transformative potential of AI in the realm of software testing, offering a significant leap towards more intelligent and automated defect management systems.
+
+stream lit link:https://defect-status-automation-5nqwdbvdwzz7nxgiqdcyrn.streamlit.app/
